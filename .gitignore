@@ -1,0 +1,4 @@
+mini-search
+*.o
+.DS_Store
+.vscode/

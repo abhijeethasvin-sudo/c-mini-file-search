@@ -1,0 +1,4 @@
+Python is fun.
+Java and C are useful.
+Python can process text. Python is powerful.
+Practice a little each day.
